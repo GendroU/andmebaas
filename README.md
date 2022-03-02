@@ -35,3 +35,11 @@
 - Kuulutused
 - Looma kohta info
 - Filtreerimine
+
+## Kasutajate rollid
+
+- Annetada süüa/mänguasju/raha
+- Hoolitseda ja tegelda loomadega
+- Igakuine annetus
+- Panna kuulutusi ülesse
+- Panna pilte ja kirjutada hulkuvatest loomadest
