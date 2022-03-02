@@ -27,4 +27,11 @@
 
 ## Soovitud funktsionaalsus
 
--
+- Anda ja võtta loomi
+- Annetamine
+- Hulkuvad/kadunud loomad
+- Kõik varjupaigad
+- Live cat cam
+- Kuulutused
+- Looma kohta info
+- Filtreerimine
