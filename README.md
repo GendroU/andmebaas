@@ -36,7 +36,7 @@
 - Looma kohta info
 - Filtreerimine
 
-## Kasutajate rollid
+## Kasutajad ja rollid
 
 - Annetada süüa/mänguasju/raha
 - Hoolitseda ja tegelda loomadega
