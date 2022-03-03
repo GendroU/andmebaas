@@ -86,3 +86,8 @@
 * Olles külaline, tahan ma saada infot loomade adopteerimise kohta
 * Olles külaline, tahan ma näha loomadega seotud postitusi, mida kasutajad või varjupaigad on postitanud
 * Olles külaline, tahan ma infot loomade, annetamise või muu kohta ka sotsiaalvõrgustikes jagada
+
+## Admin
+- Olles admin user ma tahan hallata kasutajaid
+- Adminina ma tahan kasutajatele õigusi anda ja neid muuta
+- Siis ma saan neid eemaldada kui vaja või õigusi anda
