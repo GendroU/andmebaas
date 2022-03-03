@@ -93,14 +93,26 @@
 
 ### Külaline
 * Olles külaline, tahan ma näha loomi, kes on varjupaikades adopteerimiseks vabad
+    * Ma tahan loomi filtreerida liigi, värvi, asukoha, soo jms järgi
+    * Listivaates tahan näha liiki, nime, pilti, asukohta
+    * loomale klikkides tahan näha detailsemat infot, lisapilte, lühikirjeldust
 * Olles külaline, tahan ma näha loomi, kes on kasutajate poolt adopteerimiseks välja pandud
+    * sarnaselt ülaltoodule
 * Olles külaline, tahan ma erinevate varjupaikade kohta infot saada
+    * asukoht, kontaktid
 * Olles külaline, tahan ma erinevatele varjupaikadele annetusi jagada
+    * Olles külaline, tahan ma annetada erinevate kanalite kaudu - pangalingid, tasuline kõne, mTasku, PayPal, Wise, SEPA, krüpto
 * Olles külaline, tahan ma kindlate loomade heaks annetada
-* Olles külaline, tahan ma annetada erinevate kanalite kaudu - pangalingid, tasuline kõne, mTasku, PayPal, Wise, SEPA, krüpto
 * Olles külaline, tahan ma näha loomatarvetega seonduvaid ostu-müügikuulutusi
+    * foorumilaadne keskkond
 * Olles külaline, tahan ma näha livestreame kassitubadest
+    * Ideaalis mitu erinevat kassituba
 * Olles külaline, tahan ma saada infot loomade adopteerimise kohta
+    * Millised on tingimused adopteerimiseks?
+    * Kuidas näeb välja adopteerimisprotsess?
+    * 
 * Olles külaline, tahan ma näha loomadega seotud postitusi, mida kasutajad või varjupaigad on postitanud
 * Olles külaline, tahan ma infot loomade, annetamise või muu kohta ka sotsiaalvõrgustikes jagada
+
+
 
