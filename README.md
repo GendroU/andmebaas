@@ -68,13 +68,16 @@
 - Olles varjupaiga töötaja, saan kirjutada igast loomast loo mis moodi ta on sattunud varjupaika
 - Olles varjupaiga töötaja, saan postitada pilte loomadest kes on leidnud endale kodu
 - Olles varjupaiga töötaja, saan postitada lugusid lahkunud loomadest
-- Olles varjupaiga töötaja, saan postitada lugusid loomadest keda on väärkoheldud või maha jäetud, et inimestele panna südamele mida tähendab endale looma võtmine
+- Olles varjupaiga töötaja, saan postitada lugusid loomadest keda on väärkoheldud, et inimestele panna südamele mida tähendab endale looma võtmine
+- Olles varjupaiga töötaja, saan postitada lugusid loomadest keda on maha jäetud või hüljatud inimeste poolt, et inimestele panna südamele mida tähendab endale looma võtmine
 - Olles varjupaiga töötaja, saan käia vaatamas looma kes on võtud, et olla kindel selles, et loom oleks kindlates kätes
 - Olles varjupaiga töötaja, saan annetuste eest loomadele ise asju tellida või osta
-- Olles varjupaiga töötaja, saan käia ära tuua loomi kes vajavad abi üle eestiliselt kui ka naaber riikides
-- Olles varjupaiga töötaja, saan kustutada, lisada loomadest pilte ja lugusid
+- Olles varjupaiga töötaja, saan ära tuua loomi kes vajavad abi üle eestiliselt
+- Olles varjupaiga töötaja, saan ära tuua loomikes vajavad abi naaberriikides
+- Olles varjupaiga töötaja, saan kustutada loomadest pilte
+- Olles varjupaiga töötaja, saan kustutada loomadest lugusi
 - Olles varjupaiga töötaja, saan võtta ühendust looma võtnud inimestega
-- Olles varjupaiga töötaja, saan pakkuda varjupaiga loomadele transporti ühest linnast teise kui loomal on vaja meditsiinilistabi mida ei ole eelnevas linnas olemas 
+- Olles varjupaiga töötaja, saan pakkuda varjupaiga loomadele transporti ühest linnast teise, kui loomal on vaja meditsiinilistabi mida ei ole eelnevas linnas olemas 
 
 ### Sisselogitud kasutaja
 - Registreeritud kasutajana soovin, et mul oleks lihtne juurdepääs annetustele, et saaksin tasuta asju kinkida
