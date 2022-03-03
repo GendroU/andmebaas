@@ -77,6 +77,13 @@
 - Saan pakkuda varjupaiga loomadele transporti ühest linnast teise kui loomal on vaja meditsiinilistabi mida ei ole eelnevas linnas olemas 
 
 ### Sisselogitud kasutaja
+- Registreeritud kasutajana soovin, et mul oleks lihtne juurdepääs annetustele, et saaksin tasuta asju kinkida
+- Registreeritud kasutajana soovin looma näha, et ei peaks kaugele reisima
+- Registreeritud kasutajana soovin võtta kassi, kuid ma ei saa sinna minna, sest see on kaugel
+- Registreeritud kasutajana soovin looma ära andmist postitada
+- Registreeritud kasutajana soovin postitada foorumitesse
+- Registreeritud kasutajana soovin muuta oma enda postitusi ja kustutada neid
+- Registreeritud kasutajana sooviksin saada loomi jalgida
 
 ### Külaline
 * Olles külaline, tahan ma näha loomi, kes on varjupaikades adopteerimiseks vabad
