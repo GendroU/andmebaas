@@ -1,6 +1,15 @@
 # Saaremaa kodutute loomade andmebaasi infosüsteemi analüüs
 
-## Ajakava planeerimine
+# Sisukord
+
+1. [Ajakava planeerimine](#timemanagement)
+2. [Soovitud funktsionaalsus](#features)
+3. [Kasutajad ja rollid](#users)
+4. [User Stories](#userstories)
+5. [Kasutatud tööriistad](#tools)
+6. [Meeskond](#team)
+
+## Ajakava planeerimine <a name="timemanagement"></a>
 
 ### Kolmapäev - Mis ja miks?
 
@@ -25,7 +34,7 @@
 - 11.45 - Lõuna
 - 12.45 - Esitlused
 
-## Soovitud funktsionaalsus
+## Soovitud funktsionaalsus <a name="features"></a>
 
 - Anda ja võtta loomi
 - Annetamine
@@ -36,7 +45,7 @@
 - Looma kohta info
 - Filtreerimine
 
-## Kasutajad ja rollid
+## Kasutajad ja rollid <a name="users"></a>
 
 - Annetada süüa/mänguasju/raha
 - Hoolitseda ja tegelda loomadega
@@ -52,7 +61,7 @@
 - Registreeritud kasutaja - saab panna ja eemaldada oma kuulutusi
 - Külaline - saab tutvuda kõigi andmebaasis olevate loomadega
 
-## User Stories
+## User Stories <a name="userstories"></a>
 
 ### Admin
 
@@ -115,7 +124,7 @@
 * Olles külaline, tahan ma infot loomade, annetamise või muu kohta ka sotsiaalvõrgustikes jagada
 
 
-## Kasutatud tööriistad
+## Kasutatud tööriistad <a name="tools"></a>
 
 Projektihaldus: Linear, GitHub
 
@@ -123,7 +132,7 @@ Kommunikatsioon: Slack, häälepaelad
 
 Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas
 
-## Tiim
+## Tiim <a name="team"></a>
 
 [Karl-Mihkel Truu](github.com/krlmhkl/)
 
