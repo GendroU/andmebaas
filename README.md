@@ -49,4 +49,5 @@ Kasutajad:
 - Tarkvaraarendaja - uuendab välimust  ja funktsionaalsust
 - Turvakodu admin - haldab oma asutuse andmeid
 - Registreeritud kasutaja - saab panna ja eemaldada oma kuulutusi
-- Külaline - saab tutvuda kõigi andmebaasis olevate loomadeg
+- Külaline - saab tutvuda kõigi andmebaasis olevate loomadega
+
