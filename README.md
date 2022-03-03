@@ -61,6 +61,9 @@
 - Siis ma saan neid eemaldada kui vaja või õigusi anda
 
 ### Varjupaiga haldaja
+- Saan teha samu asju mis töötaja
+- Saan anda ja võtta töötajalt õigused
+- Saan online nõustada töötajaid ja looma võtnud inimesi
 
 ### Varjupaiga töötaja
 
