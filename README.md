@@ -115,4 +115,15 @@
 * Olles külaline, tahan ma infot loomade, annetamise või muu kohta ka sotsiaalvõrgustikes jagada
 
 
+## Kasutatud tööriistad
 
+Projektihaldus: Linear, GitHub
+Kommunikatsioon: Slack, häälepaelad
+Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas
+
+## Tiim
+[Karl-Mihkel Truu](github.com/krlmhkl/)
+[Gendro Umber](github.com/GendroU/)
+[Kaur Luhaäär](github.com/Kaurluhaaar/)
+[Karl-Patric Rohi](github.com/Karl-Patric/) 
+[Olev Kuris](github.com/olevkuris/)
