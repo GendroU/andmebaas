@@ -60,6 +60,18 @@
 
 ### Varjupaiga töötaja
 
+-Saan postitada pilte ja lugusid loomadest kes otsib endale kodu, sest siis on suurem võimalus loomal leida enda õige kodu
+-Saan kirjutada igast loomast loo mis moodi ta on sattunud varjupaika
+-Saan postitada pilte loomadest kes on leidnud endale kodu
+-Saan postitada lugusid lahkunud loomadest
+-saan postitada lugusid loomadest keda on väärkoheldud või maha jäetud, et inimestele panna südamele mida tähendab endale looma võtmine
+-Saan käia vaatamas looma kes on võtud, et olla kindel selles, et loom oleks kindlates kätes
+-Saan annetuste eest loomadele ise asju tellida või osta
+-Saan käia ära tuua loomi kes vajavad abi üle eestiliselt kui ka naaber riikides
+-Saan kustutada, lisada loomadest pilte ja lugusid
+-Saan võtta ühendust looma võtnud inimestega
+-Saan pakkuda varjupaiga loomadele transporti ühest linnast teise kui loomal on vaja meditsiinilistabi mida ei ole eelnevas linnas olemas 
+
 ### Sisselogitud kasutaja
 
 ### Külaline
