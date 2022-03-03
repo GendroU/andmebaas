@@ -51,3 +51,26 @@
 - Turvakodu admin - haldab oma asutuse andmeid
 - Registreeritud kasutaja - saab panna ja eemaldada oma kuulutusi
 - Külaline - saab tutvuda kõigi andmebaasis olevate loomadega
+
+## User Stories
+
+### Admin
+
+### Varjupaiga haldaja
+
+### Varjupaiga töötaja
+
+### Sisselogitud kasutaja
+
+### Külaline
+* Olles külaline, tahan ma näha loomi, kes on varjupaikades adopteerimiseks vabad
+* Olles külaline, tahan ma näha loomi, kes on kasutajate poolt adopteerimiseks välja pandud
+* Olles külaline, tahan ma erinevate varjupaikade kohta infot saada
+* Olles külaline, tahan ma erinevatele varjupaikadele annetusi jagada
+* Olles külaline, tahan ma kindlate loomade heaks annetada
+* Olles külaline, tahan ma annetada erinevate kanalite kaudu - pangalingid, tasuline kõne, mTasku, PayPal, Wise, SEPA, krüpto
+* Olles külaline, tahan ma näha loomatarvetega seonduvaid ostu-müügikuulutusi
+* Olles külaline, tahan ma näha livestreame kassitubadest
+* Olles külaline, tahan ma saada infot loomade adopteerimise kohta
+* Olles külaline, tahan ma näha loomadega seotud postitusi, mida kasutajad või varjupaigad on postitanud
+* Olles külaline, tahan ma infot loomade, annetamise või muu kohta ka sotsiaalvõrgustikes jagada
