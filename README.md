@@ -43,7 +43,7 @@
 - Igakuine annetus
 - Panna kuulutusi ülesse
 - Panna pilte ja kirjutada hulkuvatest loomadest
-Kasutajad:
+- 
 - Admin - haldab andmeid, kasutajaid
 - Veebilehe administraator - jälgib toimimist ja korrektsust
 - Tarkvaraarendaja - uuendab välimust  ja funktsionaalsust
