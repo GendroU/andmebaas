@@ -44,10 +44,4 @@
 - Panna kuulutusi ülesse
 - Panna pilte ja kirjutada hulkuvatest loomadest
 
-## Töötajate rollid
 
-- Admin 
-- veebilehe hooldaja lisab pilte loomadest kes on leidnud kodu, kes otsib kodu, kellel on kiiresti hoiukoduvaja, keda on vaja transportida kliinikusse nt ühest linnas teise
-- tõõtaja või vabatahtlik saab lisada kassidest pilte, et neile kiiremini kodu leida, veel hoolitseb kasside eest
-- kasutaja saab postidada nii privaatseid kui ka avalikke pilte/kuulutusi, saab ka kommenteerida piltide/kuulutuste alla, saab annetada
-- külaline saab vaadata avalikke pilte ja kuulutusi
