@@ -145,6 +145,8 @@ Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi p
 
 [Gendro Umber](github.com/GendroU/)
 
+Selles projektis õppisin rohkem tiimitööd tegema ja andmebaasi. Õppisin põhjalikumalt issues-i kirjutama. Õppisin ka uusi website kasutama, mis tegid töö lihtsamaks.
+
 [Kaur Luhaäär](github.com/Kaurluhaaar/)
 
 [Karl-Patric Rohi](github.com/Karl-Patric/)
