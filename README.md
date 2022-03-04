@@ -147,7 +147,9 @@ Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi p
 
 [Kaur Luhaäär](github.com/Kaurluhaaar/)
 
-[Karl-Patric Rohi](github.com/Karl-Patric/) 
+[Karl-Patric Rohi](github.com/Karl-Patric/)
+
+Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood ja mis moodi teha issues-i. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
 
 [Olev Kuris](github.com/olevkuris/)
 
