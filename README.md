@@ -164,3 +164,6 @@ Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood j
 
 
 ![IMG_2594](https://user-images.githubusercontent.com/71066610/156745596-2c81c5bd-e58c-424d-afcd-689a1dfd9d90.jpg)
+
+![turvakodu (4)](https://user-images.githubusercontent.com/91658516/156751247-ad759f24-e496-4776-be05-300c3ecd53e5.jpg)
+
