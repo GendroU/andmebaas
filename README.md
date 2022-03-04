@@ -157,6 +157,8 @@ Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood j
 
 [Olev Kuris](github.com/olevkuris/)
 
+Õppisin agility meetodit, github desktoppi ja drawio-t. Sain palju teadmisi juurde.
+
 ## Lingid <a name="links"></a>
 
 [Wireframe](https://www.figma.com/file/NWMheElkUUgMomiz7DuFzF/Desktop)
