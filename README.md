@@ -8,6 +8,7 @@
 4. [User Stories](#userstories)
 5. [Kasutatud tööriistad](#tools)
 6. [Meeskond](#team)
+7. [Lingid](#links)
 
 ## Ajakava planeerimine <a name="timemanagement"></a>
 
@@ -130,11 +131,17 @@ Projektihaldus: Linear, GitHub
 
 Kommunikatsioon: Slack, häälepaelad
 
-Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas
+Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas, tahvel
+
+Mudelid-graafikud: draw.io, tahvel&marker
+
+Wireframe: Figma
 
 ## Tiim <a name="team"></a>
 
 [Karl-Mihkel Truu](github.com/krlmhkl/)
+
+Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi protsessi jaotamist ajaliselt. Tulevikuprojektides oskan analüüsi teostada struktureeritumalt ja seetõttu ka tõhusamalt nii ajalises kui kvalitatiivses mõttes. 
 
 [Gendro Umber](github.com/GendroU/)
 
@@ -143,3 +150,7 @@ Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas
 [Karl-Patric Rohi](github.com/Karl-Patric/) 
 
 [Olev Kuris](github.com/olevkuris/)
+
+## Lingid <a name="links"></a>
+
+[Wireframe](https://www.figma.com/file/NWMheElkUUgMomiz7DuFzF/Desktop)
