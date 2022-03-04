@@ -149,6 +149,8 @@ Selles projektis õppisin rohkem tiimitööd tegema ja andmebaasi. Õppisin põh
 
 [Kaur Luhaäär](github.com/Kaurluhaaar/)
 
+Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist, sain ka natuke rohkem oskusi juurde issue-de kirjutamisega.Kasutasin ka mõndasid uusi programme ja lehti millega ma polnud varem tegelenud.
+
 [Karl-Patric Rohi](github.com/Karl-Patric/)
 
 Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood ja mis moodi teha issues-i. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
