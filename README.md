@@ -160,3 +160,7 @@ Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood j
 ## Lingid <a name="links"></a>
 
 [Wireframe](https://www.figma.com/file/NWMheElkUUgMomiz7DuFzF/Desktop)
+
+
+
+![IMG_2594](https://user-images.githubusercontent.com/71066610/156745596-2c81c5bd-e58c-424d-afcd-689a1dfd9d90.jpg)
